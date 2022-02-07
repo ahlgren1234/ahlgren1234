@@ -1,6 +1,6 @@
 # 💫About Me :
 
-Web and App developer from Sweden. Working in the JS side of the world.
+Web and App developer from Sweden. Working in the JS side of the world, and playing around in Swift / iOS.
 
 Currently working as a Web developer at Navigraph.
 
